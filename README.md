@@ -10,7 +10,7 @@ Implement a **Hierarchical Variational Autoencoder (HVAE)**.
 ### **Hyperparameters**
 - Batch Size: `64`
 - Learning Rate: `1e-3`
-- Epochs: `300`
+- Epochs: `300`, `600`
 - Optimizer: `Adam`
 
 ## Visualization
