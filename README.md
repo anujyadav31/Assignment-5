@@ -18,8 +18,8 @@ After training, reconstructed images are visualized:
 - **Top row**: Original images
 - **Bottom row**: Reconstructed images
 
-## results folder
-- Fig_1 is the output after 300 epochs and Fig_2 is the output after 600 epochs.
+- results folder
+ Fig_1 is the output after 300 epochs and Fig_2 is the output after 600 epochs.
 
 ## Running the Code
 python main.py
