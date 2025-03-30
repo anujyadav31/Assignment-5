@@ -1,6 +1,6 @@
 Anuj Yadav (24m2012)
 
-## Assignment
+## Assignment 5
 Implement a **Hierarchical Variational Autoencoder (HVAE)**.
 
 ## Dataset
